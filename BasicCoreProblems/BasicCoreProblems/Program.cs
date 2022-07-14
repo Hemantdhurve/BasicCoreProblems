@@ -6,4 +6,7 @@
 //SwapNumbers.swapNumbers();
 //FlipCoin.flipCoin();
 //LeapYear.leapYear();
-VowelsConsonants.vowelsConsonants();
+//VowelsConsonants.vowelsConsonants();
+//LargestNumber.largestNumber();
+//QuotientNReminder.quotientNreminder();
+Powerof2.powerOf2();

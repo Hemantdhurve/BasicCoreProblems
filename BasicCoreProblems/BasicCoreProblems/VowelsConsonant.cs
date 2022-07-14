@@ -11,9 +11,9 @@ namespace BasicCoreProblems
         public static void vowelsConsonants()
         {
             Console.WriteLine("INPUT ANY ALPHABETIC LETTER :");
-            //character convert to lower case
-            // char alphabet = Convert.ToChar(Console.ReadLine().ToLower());
-            int alphabet = Convert.ToInt32(Console.WriteLine());
+            
+            char alphabet;
+            alphabet = Convert.ToChar(Console.ReadLine());
 
             //VOWELS are "a e i o u" others are CONSONANTS
 
