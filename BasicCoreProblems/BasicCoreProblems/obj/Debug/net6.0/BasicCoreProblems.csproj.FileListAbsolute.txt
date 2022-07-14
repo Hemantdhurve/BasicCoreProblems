@@ -1,0 +1,15 @@
+C:\Users\Hemant\source\repos\BasicCoreProblems\BasicCoreProblems\bin\Debug\net6.0\BasicCoreProblems.exe
+C:\Users\Hemant\source\repos\BasicCoreProblems\BasicCoreProblems\bin\Debug\net6.0\BasicCoreProblems.deps.json
+C:\Users\Hemant\source\repos\BasicCoreProblems\BasicCoreProblems\bin\Debug\net6.0\BasicCoreProblems.runtimeconfig.json
+C:\Users\Hemant\source\repos\BasicCoreProblems\BasicCoreProblems\bin\Debug\net6.0\BasicCoreProblems.dll
+C:\Users\Hemant\source\repos\BasicCoreProblems\BasicCoreProblems\bin\Debug\net6.0\BasicCoreProblems.pdb
+C:\Users\Hemant\source\repos\BasicCoreProblems\BasicCoreProblems\obj\Debug\net6.0\BasicCoreProblems.csproj.AssemblyReference.cache
+C:\Users\Hemant\source\repos\BasicCoreProblems\BasicCoreProblems\obj\Debug\net6.0\BasicCoreProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hemant\source\repos\BasicCoreProblems\BasicCoreProblems\obj\Debug\net6.0\BasicCoreProblems.AssemblyInfoInputs.cache
+C:\Users\Hemant\source\repos\BasicCoreProblems\BasicCoreProblems\obj\Debug\net6.0\BasicCoreProblems.AssemblyInfo.cs
+C:\Users\Hemant\source\repos\BasicCoreProblems\BasicCoreProblems\obj\Debug\net6.0\BasicCoreProblems.csproj.CoreCompileInputs.cache
+C:\Users\Hemant\source\repos\BasicCoreProblems\BasicCoreProblems\obj\Debug\net6.0\BasicCoreProblems.dll
+C:\Users\Hemant\source\repos\BasicCoreProblems\BasicCoreProblems\obj\Debug\net6.0\refint\BasicCoreProblems.dll
+C:\Users\Hemant\source\repos\BasicCoreProblems\BasicCoreProblems\obj\Debug\net6.0\BasicCoreProblems.pdb
+C:\Users\Hemant\source\repos\BasicCoreProblems\BasicCoreProblems\obj\Debug\net6.0\BasicCoreProblems.genruntimeconfig.cache
+C:\Users\Hemant\source\repos\BasicCoreProblems\BasicCoreProblems\obj\Debug\net6.0\ref\BasicCoreProblems.dll
